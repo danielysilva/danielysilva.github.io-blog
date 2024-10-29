@@ -1,0 +1,6 @@
+{
+    "window.density.editorTabHeight": "default",
+    "workbench.editor.decorations.colors": true,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "off",
+    "editor.wordWrap": "on"
+}
